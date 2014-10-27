@@ -1,0 +1,5 @@
+C:\Users\Michał\Desktop\smsapi-csharp-client-master\smsapi\bin\Debug\SMSApi.dll
+C:\Users\Michał\Desktop\smsapi-csharp-client-master\smsapi\bin\Debug\SMSApi.pdb
+C:\Users\Michał\Desktop\smsapi-csharp-client-master\smsapi\obj\Debug\smsapi.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Desktop\smsapi-csharp-client-master\smsapi\obj\Debug\SMSApi.dll
+C:\Users\Michał\Desktop\smsapi-csharp-client-master\smsapi\obj\Debug\SMSApi.pdb
